@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Personal Website</title>
+</head>
+<body>
+    <h1>Welcome to My Personal Website</h1>
+    <p>Name: Soumya Jodangi</p>
+    <p>College: Gogte Institute of Technology</p>
+
+    <h2>About Me</h2>
+    <p>I am a student interested in learning web technologies.</p>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Basic Programming</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Email: soumyaj@gmail.com</p>
+</body>
+</html>
